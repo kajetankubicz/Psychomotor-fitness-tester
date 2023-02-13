@@ -1,0 +1,13 @@
+C:\Users\kajet\source\repos\Projekt_nr_2\bin\Debug\Projekt_nr_2.exe.config
+C:\Users\kajet\source\repos\Projekt_nr_2\bin\Debug\Projekt_nr_2.exe
+C:\Users\kajet\source\repos\Projekt_nr_2\bin\Debug\Projekt_nr_2.pdb
+C:\Users\kajet\source\repos\Projekt_nr_2\obj\Debug\Projekt_nr_2.Properties.Resources.resources
+C:\Users\kajet\source\repos\Projekt_nr_2\obj\Debug\Projekt_nr_2.csproj.GenerateResource.cache
+C:\Users\kajet\source\repos\Projekt_nr_2\obj\Debug\Projekt_nr_2.csproj.CoreCompileInputs.cache
+C:\Users\kajet\source\repos\Projekt_nr_2\obj\Debug\Projekt_nr_2.exe
+C:\Users\kajet\source\repos\Projekt_nr_2\obj\Debug\Projekt_nr_2.pdb
+C:\Users\kajet\source\repos\Projekt_nr_2\obj\Debug\Projekt_nr_2.Form1.resources
+C:\Users\kajet\source\repos\Projekt_nr_2\obj\Debug\Projekt_nr_2.acusticForm.resources
+C:\Users\kajet\source\repos\Projekt_nr_2\obj\Debug\Projekt_nr_2.memoryForm.resources
+C:\Users\kajet\source\repos\Projekt_nr_2\obj\Debug\Projekt_nr_2.reactionForm.resources
+C:\Users\kajet\source\repos\Projekt_nr_2\obj\Debug\Projekt_nr_2.csproj.AssemblyReference.cache
